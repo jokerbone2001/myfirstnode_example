@@ -1,1 +1,2 @@
-console.log("Hello world from main");
+console.log("Hello Node from master");
+
